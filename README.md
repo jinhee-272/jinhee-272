@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=fff0f8&height=120&text=Hello%20World%20🖐️%20I'm%20jinhee&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=fff0f8&height=120&text=Hello%20World%20👋%20I'm%20jinhee&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요, 프론트엔드 개발자 이진희 입니다. </h2>  
